@@ -1,0 +1,4 @@
+/* style.css */
+body { background: white; }
+.classe-inutile { color: red; font-size: 50px; } /* Celle-là doit disparaitre */
+.titre { font-weight: bold; }
